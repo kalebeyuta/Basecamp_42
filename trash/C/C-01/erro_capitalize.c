@@ -1,0 +1,1 @@
+defeito do capitalize é que se eu coloco multiplas condiçoes erradas ele para de funcionar. o limite é até 3 condiçoes erradas.
